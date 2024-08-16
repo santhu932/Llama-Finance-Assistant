@@ -1,5 +1,5 @@
 
-# "🦙 Llamoney" – a Financial Advisor AI!
+# 🦙 Llamoney – a Financial Advisor AI!
 
 A financial advisory tool powered by state-of-the-art AI models. The tool aims to provide accurate, reliable, and actionable financial advice by leveraging some powerful technologies.
 
