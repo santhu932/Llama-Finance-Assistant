@@ -14,8 +14,8 @@ import shutil
 import glob
 
 # Setting up environment variables for Hugging Face API tokens
-os.environ["HF_TOKEN"] = "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"
-os.environ["HUGGINGFACEHUB_API_TOKEN"]  = "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"
+os.environ["HF_TOKEN"] = ""
+os.environ["HUGGINGFACEHUB_API_TOKEN"]  = ""
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
